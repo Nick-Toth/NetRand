@@ -2,6 +2,8 @@
 
 An experiment in shared pseudo-random number generation.
 
+NRServer should currently be running at 104.131.156.26:6969. If I shut it down, I will also update this README. i.e., If you're reading this and the server is down, please free to contact me so I can solve the problem. ENJOY!
+
 
 ## Overview Part I:
 
